@@ -43,3 +43,7 @@ The materials in this repository may cover areas such as:
 ├── presentations/
 ├── references/
 └── README.md
+
+## Disclaimer
+
+The views expressed in these materials are my own and do not necessarily represent the views of my employer, clients, partners, or affiliated organizations.
