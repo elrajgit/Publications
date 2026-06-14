@@ -25,8 +25,7 @@ The materials in this repository may cover areas such as:
 - Infrastructure as Code
 - Infrastructure as Intent
 - AI-enabled operations
-- Fintech platforms
-- Digital banking enablement
+- Fintech
 - Compliance and governance
 - Enterprise architecture
 - Platform engineering
