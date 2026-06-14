@@ -1,4 +1,4 @@
-# Published Work
+# Publications
 
 This repository contains a public collection of my published materials, including whitepapers, concept papers, research notes, essays, and thought leadership articles.
 
