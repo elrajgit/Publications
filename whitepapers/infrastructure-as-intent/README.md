@@ -16,11 +16,11 @@ The foundational paper. Defines IAI, establishes the translation tax problem, de
 **Status:** Published  
 **Key concepts:** Intent layer, code layer, translation tax, three-gate validation, earned trust, maturity model
 
-### Whitepaper II: Security Operations Deep Dive
+### [Whitepaper II: Security Operations Deep Dive]
 Examines how IAI shifts security left through the security gate, policy-as-code enforcement, and criticality-aware validation. Covers shift-left security, policy normalization across hybrid estates, and how the intent layer makes security decisions auditable and repeatable.
 
-**Status:** Coming  
-**Expected:** Q3 2026
+**Status:** Published  
+**Key concepts:** Shift-left security, policy-as-code, criticality-aware validation, hybrid estate normalization, auditable security decisions
 
 ### Whitepaper III: Financial Operations Deep Dive
 Explores how IAI shifts cost left by treating cost as a first-class validation gate. Covers cost estimation before deployment, multi-cloud cost normalization, budget enforcement, and how the intent layer makes infrastructure spend a governed decision rather than a billing surprise.
