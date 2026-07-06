@@ -22,11 +22,11 @@ Examines how IAI shifts security left through the security gate, policy-as-code 
 **Status:** Published  
 **Key concepts:** Shift-left security, policy-as-code, criticality-aware validation, hybrid estate normalization, auditable security decisions
 
-### Whitepaper III: Financial Operations Deep Dive
+### [Whitepaper III: Financial Operations Deep Dive]
 Explores how IAI shifts cost left by treating cost as a first-class validation gate. Covers cost estimation before deployment, multi-cloud cost normalization, budget enforcement, and how the intent layer makes infrastructure spend a governed decision rather than a billing surprise.
 
-**Status:** Coming  
-**Expected:** Q3 2026
+**Status:** Published  
+**Key concepts:** Shift-left cost, cost-as-validation-gate, multi-cloud cost normalization, budget enforcement, governed infrastructure spend
 
 ## Architecture Diagram
 
